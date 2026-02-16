@@ -1,40 +1,40 @@
-# Hi there, I'm Prince Raj 👋 🚀
+# Prince Rajbhar | Software Developer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceRaj-17" />
+  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=Profile%20Views&color=0078d4&style=flat-square" alt="PrinceRaj-17" />
 </p>
-
-### ⚡ C/C++ | Linux Enthusiast | Shell Scripting | Data Science | Python | AI/ML
-
-- 🔭 I’m currently working on **AI/ML Projects**
-- 🌱 I’m currently learning **Advanced Deep Learning**
-- 👯 I’m looking to collaborate on **Open Source Python tools**
-- 💬 Ask me about **Linux, Automation, or Python**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prince-rajbhar-221420202)
 
 ---
 
-### 🛠 Tech Stack
+### Technical Expertise
+- **Languages:** Python, C, C++, Java, Shell Scripting
+- **Systems & Tools:** Linux Kernel, Docker, Vim, Selenium, Git
+- **Fields:** Automation, AI/ML, Systems Programming, Game Logic
 
+---
+
+### Repository Highlights
+- **Systems:** Maintaining custom Linux configurations and kernel source environments.
+- **Automation:** Developed automated workflows using Selenium and Python-based bots.
+- **AI/ML:** Building chat interfaces and data analysis tools like `ProChat` and `covid-19`.
+- **Game Dev:** Implementing core game mechanics in Python and Java (Tetris, Snake).
+
+---
+
+### Statistics
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=transparent&title_color=0078d4&icon_color=0078d4&text_color=586069&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=transparent&title_color=0078d4&text_color=586069&hide_border=true" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### Contact & Connectivity
+- **LinkedIn:** [In/prince-rajbhar-221420202](https://www.linkedin.com/in/prince-rajbhar-221420202)
+- **Twitter/X:** [@PrinceRajbhar17](https://twitter.com/PrinceRajbhar17)
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRaj-17&theme=tokyonight" alt="PrinceRaj-17" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078d4&height=30&section=footer&opacity=0.1" />
 </p>
