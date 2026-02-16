@@ -1,28 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=180&section=header&text=PRINCE%20RAJBHAR&fontSize=75&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER;LINUX+EXPERT;AUTOMATION+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,linux,bash,docker,selenium,git,vim,mysql,bots&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
