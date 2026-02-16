@@ -1,34 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=PRINCE%20RAJBHAR&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00f2ff" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=250&section=header&text=Prince%20Rajbhar&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/PrinceRaj-17">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER;AUTOMATION+ENGINEER;LINUX+ENTHUSIAST;AI+/+ML+BOT+ARCHITECT" alt="Typing SVG" />
-  </a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER;LINUX+%26+SHELL+SCRIPTER;AI+%2F+ML+ENGINEER;AUTOMATION+EXPERT" alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-<table align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4OHR6bm96amZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</div>
+
+<hr/>
+
+### 🛠 System Architecture (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,linux,bash,docker,selenium,git,vim,vscode,mysql" />
+</div>
+
+<hr/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠 SYSTEM SPECS</h3>
+      <h3 align="center">📊 Data Stream</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f2ff" />
-        <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0D1117" width="95%" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 CORE ANALYTICS</h3>
+      <h3 align="center">💻 Core Logic</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=nightowl&hide_border=true&title_color=00f2ff&icon_color=00f2ff&bg_color=00000000" width="90%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&bg_color=0D1117" width="95%" />
       </p>
     </td>
   </tr>
@@ -36,26 +37,23 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=nightowl&hide_border=true&title_color=00f2ff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRaj-17&theme=nightowl&hide_border=true&stroke=00f2ff&ring=00f2ff&fire=00f2ff&background=00000000" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRaj-17&theme=tokyonight&hide_border=true&fire=00d4ff&ring=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff" width="100%" />
+</div>
 
----
+<hr/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" />
+  <h3 align="center">🌐 Connectivity Intercept</h3>
   
-  <br/><br/>
-
   <a href="https://www.linkedin.com/in/prince-rajbhar-221420202">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/PrinceRajbhar17">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
+  
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=STALKER_COUNT&color=00f2ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=STALKER%20ID&color=00d4ff&style=for-the-badge" />
 </div>
