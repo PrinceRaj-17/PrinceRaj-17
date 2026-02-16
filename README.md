@@ -1,61 +1,61 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Prince%20Rajbhar&fontSize=80&animation=fadeIn&fontColor=38bdf8&fontAlign=50&desc=Software%20Developer%20%7C%20Automation%20%7C%20Linux&descAlign=50&descSize=25" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=PRINCE%20RAJBHAR&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00f2ff" width="100%" />
+</p>
 
-  <br/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Automation+Bots;Tinkering+with+Linux+Kernel;Coding+Game+Logic;System+Architecture" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/PrinceRaj-17">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER;AUTOMATION+ENGINEER;LINUX+ENTHUSIAST;AI+/+ML+BOT+ARCHITECT" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠 Tech Arsenal</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <h3 align="center">🛠 SYSTEM SPECS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <br/>
-        <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f2ff" />
+        <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         <br/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
-      </div>
+      </p>
     </td>
-    
     <td width="50%" valign="top">
-      <h3 align="center">📊 Data Stream</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="160" />
-      </div>
+      <h3 align="center">📊 CORE ANALYTICS</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=PrinceRaj-17&show_icons=true&theme=nightowl&hide_border=true&title_color=00f2ff&icon_color=00f2ff&bg_color=00000000" width="90%" />
+      </p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <h3>💻 Language Frequency</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" height="140" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRaj-17&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</div>
-
 <br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceRaj-17&layout=compact&theme=nightowl&hide_border=true&title_color=00f2ff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceRaj-17&theme=nightowl&hide_border=true&stroke=00f2ff&ring=00f2ff&fire=00f2ff&background=00000000" width="48%" />
+</p>
+
+---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/prince-rajbhar-221420202" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/PrinceRajbhar17" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" />
+  
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=TERMINAL%20ACCESS&color=38BDF8&style=plastic" />
+
+  <a href="https://www.linkedin.com/in/prince-rajbhar-221420202">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/PrinceRajbhar17">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=STALKER_COUNT&color=00f2ff&style=flat-square" />
 </div>
