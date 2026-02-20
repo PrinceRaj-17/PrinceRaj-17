@@ -3,11 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=090909&height=180&section=header&text=PRINCE%20RAJBHAR&fontSize=75&animation=fadeIn&fontColor=00D4FF" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER;AUDIO_ARCHITECT;ANDROID+ENGINEER;SCIFI+WRITER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-QUANTUM_CORE_V1.2.0-blueviolet?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/ROLE-SOLE_DEVELOPER-3DDC84?style=for-the-badge" alt="Role">
 </p>
 
