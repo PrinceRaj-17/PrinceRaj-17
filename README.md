@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/ROLE-SOLE_DEVELOPER-3DDC84?style=for-the-badge" alt="Role">
-</p>
 
 </div>
 
