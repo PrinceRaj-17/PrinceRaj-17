@@ -1,19 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=180&section=header&text=PRINCE%20RAJBHAR&fontSize=75&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-# 👋 Hi, I'm **<font color="#7aa2f7">Prince Rajbhar</font>**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=150&section=header&text=Building%20Ideas%20Into%20Reality&fontSize=24&fontColor=ffffff" width="100%" alt="Wave Banner" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-### 👨‍💻 The TL;DR
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,linux,bash,docker,selenium,git,vim,mysql,bots&theme=dark" />
+</div>
 
-```json
-{
-  "currently_building": "A sleek, highly-optimized mobile application 📱",
-  "currently_researching": "Green value creation and sustainable development 🌍",
-  "always_down_for": "A good mathematical challenge or algorithm deep-dive 🧮",
-  "mission": "Writing clean code and solving complex problems."
-}
+<br/>
+
+<hr/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prince-rajbhar-221420202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=PrinceRaj-17&label=STALKER%20COUNT&color=00b4d8&style=for-the-badge" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer&opacity=0.1" width="100%" />
+</p>
